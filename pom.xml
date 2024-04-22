@@ -16,17 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-	  <finalName>vissu27:</finalName>
-    <plugins>
-        <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <configuration>
-                <source>3.4</source>
-                <target>3.4</target>
-            </configuration>
-        </plugin>
-    </plugins>
+  <finalName>vissu27</finalName>
 
   </build>
 </project>
